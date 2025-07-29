@@ -17,7 +17,7 @@ export class UrlService {
   ) {}
 
   async shorten(originalUrl: string, customCode?: string) {
-    const nanoid = (await import('nanoid')).nanoid; // ✅ Safe for CommonJS & Docker
+    const nanoid = (await import('nanoid')).nanoid;
     const shortCode = customCode || nanoid(7);
 
     const existing = await this.urlModel.findOne({ shortCode });
