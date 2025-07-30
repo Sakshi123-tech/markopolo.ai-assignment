@@ -48,7 +48,7 @@ Bonus Features Implemented:
 •	 Dockerized backend
 •	 Rate limiting with @nestjs/throttler
 •	 Swagger integration
-•	Video Explanation: [📹 Loom/Drive Link Here]
+•	Video Explanation:https://drive.google.com/file/d/1fxlrf2rqDPziQgzARz9O7nvK-svsZaqE/view
 
 Swagger Documentation
 •	Tool Used: @nestjs/swagger
@@ -60,7 +60,7 @@ Swagger Documentation
 •	Project: URL Shortener Service
 •	🔗 Live Deployment: https://markopolo-ai-assignment-nkhx.onrender.com
 •	📘 Swagger API Docs: https://markopolo-ai-assignment-nkhx.onrender.com/docs
-•	📂 GitHub Repository: https://github.com/Sakshi123-tech/Markopolo.ai--assignment
+•	📂 GitHub Repository: https://github.com/Sakshi123-tech/markopolo.ai-assignment
 
 
 
