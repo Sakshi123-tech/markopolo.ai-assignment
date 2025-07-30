@@ -53,18 +53,14 @@ Bonus Features Implemented:
 Swagger Documentation
 •	Tool Used: @nestjs/swagger
 •	Features:
-o	Auto-generated OpenAPI spec
-o	Interactive UI for testing endpoints
-o	Descriptions for request bodies, responses, and status codes
+	Auto-generated OpenAPI spec,
+	Interactive UI for testing endpoints,
+	Descriptions for request bodies, responses, and status codes
 
 •	Project: URL Shortener Service
 •	🔗 Live Deployment: https://markopolo-ai-assignment-nkhx.onrender.com
 •	📘 Swagger API Docs: https://markopolo-ai-assignment-nkhx.onrender.com/docs
 •	📂 GitHub Repository: https://github.com/Sakshi123-tech/Markopolo.ai--assignment
 
-API Key Authentication
-All three services in this project are protected via API key authentication. Below are example request formats to demonstrate how users can integrate their keys.
- POST /api/shorten----"https://markopolo-ai-assignment-nkhx.onrender.com/api/shorten"
- GET /r/:shortCode----"https://markopolo-ai-assignment-nkhx.onrender.com/api/stats/:shortcode"
- GET /api/stats/:shortCode----"https://markopolo-ai-assignment-nkhx.onrender.com/r/:shortCode"
+
 
